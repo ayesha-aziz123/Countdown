@@ -1,2 +1,2 @@
 # Countdown
-This is a CLI based timer
+In This Project build the count Down Timer Using the Date Module .
